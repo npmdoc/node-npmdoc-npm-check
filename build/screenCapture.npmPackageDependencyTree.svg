@@ -173,7 +173,7 @@
 <tspan x="10" y="2730">  │ │ ├── unzip-response@1.0.2 </tspan>
 <tspan x="10" y="2746">  │ │ └─┬ url-parse-lax@1.0.0 </tspan>
 <tspan x="10" y="2762">  │ │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="2778">  │ ├─┬ registry-auth-token@3.1.1 </tspan>
+<tspan x="10" y="2778">  │ ├─┬ registry-auth-token@3.1.2 </tspan>
 <tspan x="10" y="2794">  │ │ └─┬ rc@1.2.1 </tspan>
 <tspan x="10" y="2810">  │ │   ├── deep-extend@0.4.1 </tspan>
 <tspan x="10" y="2826">  │ │   └── strip-json-comments@2.0.1 </tspan>
