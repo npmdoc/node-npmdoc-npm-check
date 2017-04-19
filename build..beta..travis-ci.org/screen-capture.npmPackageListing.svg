@@ -1,0 +1,42 @@
+<svg height="622" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="622" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  1.  2017-03-25 17:44:26 +0000    12761 byte  README.md</tspan>
+<tspan x="10" y="42">  2.  2017-03-25 17:44:26 +0000      182 byte  bin/cli.js</tspan>
+<tspan x="10" y="58">  3.  2017-03-25 17:44:26 +0000     3015 byte  lib-es5/cli.js</tspan>
+<tspan x="10" y="74">  4.  2017-03-25 17:44:26 +0000      532 byte  lib-es5/in/best-guess-homepage.js</tspan>
+<tspan x="10" y="90">  5.  2017-03-25 17:44:26 +0000     4068 byte  lib-es5/in/create-package-summary.js</tspan>
+<tspan x="10" y="106">  6.  2017-03-25 17:44:26 +0000      528 byte  lib-es5/in/get-installed-packages.js</tspan>
+<tspan x="10" y="122">  7.  2017-03-25 17:44:26 +0000     1168 byte  lib-es5/in/get-latest-from-registry.js</tspan>
+<tspan x="10" y="138">  8.  2017-03-25 17:44:26 +0000     2137 byte  lib-es5/in/get-unused-packages.js</tspan>
+<tspan x="10" y="154">  9.  2017-03-25 17:44:26 +0000     2823 byte  lib-es5/in/index.js</tspan>
+<tspan x="10" y="170"> 10.  2017-03-25 17:44:26 +0000      571 byte  lib-es5/in/read-package-json.js</tspan>
+<tspan x="10" y="186"> 11.  2017-03-25 17:44:26 +0000      260 byte  lib-es5/index.js</tspan>
+<tspan x="10" y="202"> 12.  2017-03-25 17:44:26 +0000      295 byte  lib-es5/out/emoji.js</tspan>
+<tspan x="10" y="218"> 13.  2017-03-25 17:44:26 +0000     1431 byte  lib-es5/out/install-packages.js</tspan>
+<tspan x="10" y="234"> 14.  2017-03-25 17:44:26 +0000     5720 byte  lib-es5/out/interactive-update.js</tspan>
+<tspan x="10" y="250"> 15.  2017-03-25 17:44:26 +0000     3749 byte  lib-es5/out/static-output.js</tspan>
+<tspan x="10" y="266"> 16.  2017-03-25 17:44:26 +0000      255 byte  lib-es5/state/debug.js</tspan>
+<tspan x="10" y="282"> 17.  2017-03-25 17:44:26 +0000     1547 byte  lib-es5/state/init.js</tspan>
+<tspan x="10" y="298"> 18.  2017-03-25 17:44:26 +0000     1941 byte  lib-es5/state/state.js</tspan>
+<tspan x="10" y="314"> 19.  2017-03-25 17:44:26 +0000     3254 byte  lib/cli.js</tspan>
+<tspan x="10" y="330"> 20.  2017-03-25 17:44:26 +0000      553 byte  lib/in/best-guess-homepage.js</tspan>
+<tspan x="10" y="346"> 21.  2017-03-25 17:44:26 +0000     4371 byte  lib/in/create-package-summary.js</tspan>
+<tspan x="10" y="362"> 22.  2017-03-25 17:44:26 +0000      571 byte  lib/in/get-installed-packages.js</tspan>
+<tspan x="10" y="378"> 23.  2017-03-25 17:44:26 +0000     1324 byte  lib/in/get-latest-from-registry.js</tspan>
+<tspan x="10" y="394"> 24.  2017-03-25 17:44:26 +0000     2138 byte  lib/in/get-unused-packages.js</tspan>
+<tspan x="10" y="410"> 25.  2017-03-25 17:44:26 +0000     1437 byte  lib/in/index.js</tspan>
+<tspan x="10" y="426"> 26.  2017-03-25 17:44:26 +0000      549 byte  lib/in/read-package-json.js</tspan>
+<tspan x="10" y="442"> 27.  2017-03-25 17:44:26 +0000      242 byte  lib/index.js</tspan>
+<tspan x="10" y="458"> 28.  2017-03-25 17:44:26 +0000      298 byte  lib/out/emoji.js</tspan>
+<tspan x="10" y="474"> 29.  2017-03-25 17:44:26 +0000     1251 byte  lib/out/install-packages.js</tspan>
+<tspan x="10" y="490"> 30.  2017-03-25 17:44:26 +0000     5517 byte  lib/out/interactive-update.js</tspan>
+<tspan x="10" y="506"> 31.  2017-03-25 17:44:26 +0000     3966 byte  lib/out/static-output.js</tspan>
+<tspan x="10" y="522"> 32.  2017-03-25 17:44:26 +0000      257 byte  lib/state/debug.js</tspan>
+<tspan x="10" y="538"> 33.  2017-03-25 17:44:26 +0000     1303 byte  lib/state/init.js</tspan>
+<tspan x="10" y="554"> 34.  2017-03-25 17:44:26 +0000     1681 byte  lib/state/state.js</tspan>
+<tspan x="10" y="570"> 35.  2017-03-25 17:44:26 +0000     1093 byte  license</tspan>
+<tspan x="10" y="586"> 36.  2017-03-25 17:44:26 +0000     4000 byte  package.json</tspan>
+<tspan x="10" y="602"> 37.  2017-03-25 17:44:26 +0000    76788 byte  .</tspan>
+</text>
+</svg>
